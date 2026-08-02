@@ -232,13 +232,8 @@ NovaTrust actively tracks its user growth using Plausible Analytics and on-chain
 
 | Wallet Address | Action | Transaction Hash |
 | --- | --- | --- |
-| [GBXBZYR...Q76N](https://stellar.expert/explorer/testnet/account/GBXBZYRUXADVOOB5TIBNDHMCH7TAUEEUDJDV5WLOBWIZMUVFBXHXQ76N) | Approve XLM Allowance | [5c09697...63d4](https://stellar.expert/explorer/testnet/tx/5c0969769a3cac659e89a5c4eff8cd9a53e8327a2e08e59ece32d7ffe12663d4) |
-| [GBXBZYR...Q76N](https://stellar.expert/explorer/testnet/account/GBXBZYRUXADVOOB5TIBNDHMCH7TAUEEUDJDV5WLOBWIZMUVFBXHXQ76N) | Donate 150 XLM | [e85684b...ee06](https://stellar.expert/explorer/testnet/tx/e85684be2b6ee8238439032b6df8e3feeebc1ef3e12546c77d40e0712967ee06) |
-| [GBXBZYR...Q76N](https://stellar.expert/explorer/testnet/account/GBXBZYRUXADVOOB5TIBNDHMCH7TAUEEUDJDV5WLOBWIZMUVFBXHXQ76N) | Donate 120 XLM | [04bceca...503b](https://stellar.expert/explorer/testnet/tx/04bcecafbbf4ca4896465566098e56088ff97500b28363275d474160e138503b) |
-| [GBXBZYR...Q76N](https://stellar.expert/explorer/testnet/account/GBXBZYRUXADVOOB5TIBNDHMCH7TAUEEUDJDV5WLOBWIZMUVFBXHXQ76N) | Submit Milestone 1 Proof | [8db5ead...f8a2](https://stellar.expert/explorer/testnet/tx/8db5ead38e99b2d76bb58161e3200ccde7da8d58cd7bf101c09641580534f8a2) |
-| [GBXBZYR...Q76N](https://stellar.expert/explorer/testnet/account/GBXBZYRUXADVOOB5TIBNDHMCH7TAUEEUDJDV5WLOBWIZMUVFBXHXQ76N) | Vote Approve Milestone 1 | [24be818...3bc6](https://stellar.expert/explorer/testnet/tx/24be818dc46f705567c5bb8a9735aaf6497b856ec9bb8e5c28ed940fcd563bc6) |
-| [GBXBZYR...Q76N](https://stellar.expert/explorer/testnet/account/GBXBZYRUXADVOOB5TIBNDHMCH7TAUEEUDJDV5WLOBWIZMUVFBXHXQ76N) | Release Milestone 1 Funds | [ee87efc...60e](https://stellar.expert/explorer/testnet/tx/ee87efc035d7b5d32d3c8fc6cb8112086bf2a1cfda207b559ad35ad690e7160e) |
-| [GBXBZYR...Q76N](https://stellar.expert/explorer/testnet/account/GBXBZYRUXADVOOB5TIBNDHMCH7TAUEEUDJDV5WLOBWIZMUVFBXHXQ76N) | Donate 50 XLM | [61260bd...83d1](https://stellar.expert/explorer/testnet/tx/61260bd49d3b17dae5c33210e50e80dbfd57142f08efd78ec04279087fc883d1) |
+| (August wallet address placeholder) | (August action placeholder) | (August transaction hash placeholder) |
+| (August wallet address placeholder) | (August action placeholder) | (August transaction hash placeholder) |
 
 </details>
 
