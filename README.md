@@ -325,3 +325,11 @@ NovaTrust/
 ## 21. License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 22. Developer Contact
+
+- **GitHub Username:** [abhishek86038](https://github.com/abhishek86038)
+- **Email:** [abhishekkumar086038@gmail.com](mailto:abhishekkumar086038@gmail.com)
+
