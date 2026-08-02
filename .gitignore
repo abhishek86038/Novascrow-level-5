@@ -24,5 +24,3 @@ dist-ssr
 *.sw?
 target/
 target_temp/
-batch_donations.py
-
