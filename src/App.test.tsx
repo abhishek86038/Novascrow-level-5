@@ -20,6 +20,12 @@ vi.mock("./stellar", () => {
     getCampaignTotalRaised: vi.fn(() => Promise.resolve(250)),
     getUserBadgeTier: vi.fn(() => Promise.resolve(1)), // Bronze
     getCurrentLedger: vi.fn(() => Promise.resolve(104235)),
+    getMilestoneStatus: vi.fn(() => Promise.resolve({
+      status: 0, // Locked
+      proof_hash: "",
+      approve_votes: 0,
+      reject_votes: 0,
+    })),
     prepareDonateTransaction: vi.fn(),
     submitAndPollTransaction: vi.fn(),
     getCampaignEvents: vi.fn(() =>

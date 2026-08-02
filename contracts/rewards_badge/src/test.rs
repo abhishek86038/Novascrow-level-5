@@ -15,7 +15,7 @@ fn test_rewards_badge_simple() {
     let donor = Address::generate(&env);
 
     client.initialize(&admin);
-
+    client.set_minter(&admin);
     client.mint_badge(&donor, &1);
 
     assert_eq!(client.get_badge_tier(&donor), 1);

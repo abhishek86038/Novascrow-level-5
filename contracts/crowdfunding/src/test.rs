@@ -25,6 +25,14 @@ fn test_escrow_milestone_flow() {
         soroban_sdk::vec![&env, crowdfunding_contract_id.clone().into_val(&env)]
     );
 
+    let _: () = env.invoke_contract(
+        &badge_contract_id,
+        &Symbol::new(&env, "set_minter"),
+        soroban_sdk::vec![&env, crowdfunding_contract_id.clone().into_val(&env)]
+    );
+
+
+
     let campaign_owner = Address::generate(&env);
     let goal_amount = 1000 * 10_000_000i128; // 1000 XLM
     crowdfunding_client.initialize(&campaign_owner, &goal_amount, &token_contract_id, &badge_contract_id);
