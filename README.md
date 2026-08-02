@@ -3,7 +3,7 @@
 ### Trustless Crowdfunding and Milestone-Based Reward Badges on Stellar Soroban
 *A production-ready decentralized crowdfunding suite built for Level 4 (Green Belt) of the Stellar Builder Challenge.*
 
-[![CI/CD Pipeline](https://github.com/Abhishek86038/NovaTrust3.1/actions/workflows/ci.yml/badge.svg)](https://github.com/Abhishek86038/NovaTrust3.1/actions)
+[![CI/CD Pipeline](https://github.com/abhishek86038/Novascrow-level-5/actions/workflows/ci.yml/badge.svg)](https://github.com/abhishek86038/Novascrow-level-5/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -135,8 +135,8 @@ Stellar's fast transaction speeds and negligible fees make micro-donations and c
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhishek86038/NovaTrust.git
-   cd NovaTrust
+   git clone https://github.com/abhishek86038/Novascrow-level-5.git
+   cd Novascrow-level-5
    ```
 2. Install frontend dependencies:
    ```bash
