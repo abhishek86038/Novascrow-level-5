@@ -57,3 +57,4 @@ impl RewardsBadgeContract {
 
 #[cfg(test)]
 mod test;
+// Rewards badge core contract
