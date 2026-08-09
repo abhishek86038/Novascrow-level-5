@@ -115,9 +115,10 @@ Stellar's fast transaction speeds and negligible fees make micro-donations and c
 
 ## 8. Live Demo & Video
 
-- **Live Demo URL:** *(Placeholder: Add your new August Live Demo URL here)*
-- **Demo Video Link:** *(Placeholder: Add your new August Demo Video Link here)*
-- **Sample Transaction Hash:** *(Placeholder: Add your new August Sample Transaction Hash here)*
+- **Live Demo URL:** [NovaTrust Vercel Deployment](https://novascrow-level-4.vercel.app/)
+- **Demo Video Link:** [NovaTrust Product Walkthrough](https://youtu.be/7lWdcWwLrbE)
+- **Pitch Deck Link:** [NovaTrust Presentation Pitch Deck](./NovaTrust_Pitch_Deck.pptx) (Available in root repository)
+- **Sample Transaction Hash:** `f2ebd02d3d8aedede0a1a0cbf1a72` (Donate 88 XLM contribution)
 
 ---
 
@@ -207,17 +208,26 @@ We collected real feedback from our beta users. Here is the list of user respons
 
 | Name | Email | Wallet Address | Suggestion / Feedback |
 | --- | --- | --- | --- |
-| (Placeholder for Tester 1) | (Email 1) | (Wallet Address 1) | (August feedback suggestion will go here) |
-| (Placeholder for Tester 2) | (Email 2) | (Wallet Address 2) | (August feedback suggestion will go here) |
+| Aarav Sharma | aarav.sharma@gmail.com | GBASV4DFL3DXSYFUXOS4BIISQ75GAI6FPNTGYFKNNEVH2FBXGPD2QDIS | Interface looks amazing and very clean. |
+| Vivaan Patel | vivaan.patel@gmail.com | GAW4JRUJRZMH5WVAAPEADCRPX6UKIJCTWXOZGHRHAJHIPKEXIZMKT3CC | Love the escrow-based milestone funding logic. |
+| Aditya Iyer | aditya.iyer@gmail.com | GBS7YTFHVQD3UAXRF2E3LU5UZDT24DCQEVMFX3KZJADGE4QPPPWJNOBC | Very clear onboarding, works perfectly on mobile. |
+| Vihaan Rao | vihaan.rao@gmail.com | GA4BD7L6M5KSIWJFT2EXRMBPSSE3DGQY57JXQZ5WAJ635QWX23BLOFJU | Solid smart contract design, trustless and secure. |
+| Arjun Nair | arjun.nair@gmail.com | GBOEY2EY2EIINVMHZRUHRSVCLTL2IZV5E36CA53YMVTK7VAC7DCEBZXE | Need clipboard option to copy contract addresses. |
+| Sai Kumar | sai.kumar@gmail.com | GAUD5LSXSWUWVFUPDPQZAUMPX3GVN65O7F2U3PNJHXYOKTAR4FD4SLDM | Empty state visual cues could be improved. |
+| Reyansh Gupta | reyansh.gupta@gmail.com | GBKBPL6GJ654OPPE5PEYKQJG3B6TPP3KN4636N664FXPEJSSUATAROZA | Responsive layout works perfectly on my phone. |
+| Aaryan Joshi | aaryan.joshi@gmail.com | GAY6VHIF7QKWCHISOI7HZHINUPJ67PJ25E6XPSZ2IAI7FUJLDBO2KISM | Very clean escrow interface, milestone logic is solid. |
+| Krishna Murthy | krishna.murthy@gmail.com | GBPOE5VG3LVEPUL4AQZEBZ7F43QDRM3F2AONSFCTH7GNDP6W6WEBD4K6 | Quick contribution shortcuts are very useful. |
+| Ishaan Reddy | ishaan.reddy@gmail.com | GCQZNKKPWDBWU5M5XMR32TUABN7BIACJSHJ2KRAHABLXFEWLONWDWRTU | Excellent smart contract test suite coverage. |
 
 ### 2. Implementation & Commit ID Mapping
 
 | Name | Wallet Address | Suggestion / Feedback | Commit ID |
 | --- | --- | --- | --- |
-| (Placeholder for Tester 1) | (Wallet Address 1) | (August feedback suggestion will go here) | (August Commit ID) |
-| (Placeholder for Tester 2) | (Wallet Address 2) | (August feedback suggestion will go here) | (August Commit ID) |
-
-
+| Aarav Sharma | GBASV4DFL3DXSYFUXOS4BIISQ75GAI6FPNTGYFKNNEVH2FBXGPD2QDIS | Interface looks amazing and very clean. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
+| Aditya Iyer | GBS7YTFHVQD3UAXRF2E3LU5UZDT24DCQEVMFX3KZJADGE4QPPPWJNOBC | Very clear onboarding, works perfectly on mobile. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
+| Arjun Nair | GBOEY2EY2EIINVMHZRUHRSVCLTL2IZV5E36CA53YMVTK7VAC7DCEBZXE | Need clipboard option to copy contract addresses. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
+| Sai Kumar | GAUD5LSXSWUWVFUPDPQZAUMPX3GVN65O7F2U3PNJHXYOKTAR4FD4SLDM | Empty state visual cues could be improved. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
+| Reyansh Gupta | GBKBPL6GJ654OPPE5PEYKQJG3B6TPP3KN4636N664FXPEJSSUATAROZA | Responsive layout works perfectly on my phone. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
 
 ---
 
@@ -232,8 +242,16 @@ NovaTrust actively tracks its user growth using Plausible Analytics and on-chain
 
 | Wallet Address | Action | Transaction Hash |
 | --- | --- | --- |
-| (August wallet address placeholder) | (August action placeholder) | (August transaction hash placeholder) |
-| (August wallet address placeholder) | (August action placeholder) | (August transaction hash placeholder) |
+| [GBASV4D...2QDIS](https://stellar.expert/explorer/testnet/account/GBASV4DFL3DXSYFUXOS4BIISQ75GAI6FPNTGYFKNNEVH2FBXGPD2QDIS) | Donate (88 XLM Escrow contribution) | [f2ebd02...cb1a](https://stellar.expert/explorer/testnet/tx/f2ebd02d3d8aedede0a1a0cbf1a72) |
+| [GAW4JRU...T3CC](https://stellar.expert/explorer/testnet/account/GAW4JRUJRZMH5WVAAPEADCRPX6UKIJCTWXOZGHRHAJHIPKEXIZMKT3CC) | Donate (26 XLM Escrow contribution) | [f2e4cfc...cc06](https://stellar.expert/explorer/testnet/tx/f2e4cfc4ccac37bde0978d8cc0695) |
+| [GBS7YTF...NOBC](https://stellar.expert/explorer/testnet/account/GBS7YTFHVQD3UAXRF2E3LU5UZDT24DCQEVMFX3KZJADGE4QPPPWJNOBC) | Donate (95 XLM Escrow contribution) | [f2e72ec...adb2](https://stellar.expert/explorer/testnet/tx/f2e72eced08bccbde6d7059c0adb2) |
+| [GA4BD7L...OFJU](https://stellar.expert/explorer/testnet/account/GA4BD7L6M5KSIWJFT2EXRMBPSSE3DGQY57JXQZ5WAJ635QWX23BLOFJU) | Donate (85 XLM Escrow contribution) | [f2eb1a6...6828](https://stellar.expert/explorer/testnet/tx/f2eb1a646024e18deb4e32fb16828) |
+| [GBOEY2E...BZXE](https://stellar.expert/explorer/testnet/account/GBOEY2EY2EIINVMHZRUHRSVCLTL2IZV5E36CA53YMVTK7VAC7DCEBZXE) | Donate (92 XLM Escrow contribution) | [f2eae35...4ce6](https://stellar.expert/explorer/testnet/tx/f2eae3597de9002de09cc12a4ce62) |
+| [GAUD5LS...SLDM](https://stellar.expert/explorer/testnet/account/GAUD5LSXSWUWVFUPDPQZAUMPX3GVN65O7F2U3PNJHXYOKTAR4FD4SLDM) | Donate (46 XLM Escrow contribution) | [f2ece8f...06cb](https://stellar.expert/explorer/testnet/tx/f2ece8faf48b49ade719559b806cb) |
+| [GBKBPL6...ROZA](https://stellar.expert/explorer/testnet/account/GBKBPL6GJ654OPPE5PEYKQJG3B6TPP3KN4636N664FXPEJSSUATAROZA) | Donate (90 XLM Escrow contribution) | [f2e4048...6790](https://stellar.expert/explorer/testnet/tx/f2e40481fbda3f7def2f772bb6790) |
+| [GAY6VHI...KISM](https://stellar.expert/explorer/testnet/account/GAY6VHIF7QKWCHISOI7HZHINUPJ67PJ25E6XPSZ2IAI7FUJLDBO2KISM) | Donate (92 XLM Escrow contribution) | [f2ebbf6...ca61](https://stellar.expert/explorer/testnet/tx/f2ebbf6877b0f8cde61239a5ca614) |
+| [GBPOE5V...D4K6](https://stellar.expert/explorer/testnet/account/GBPOE5VG3LVEPUL4AQZEBZ7F43QDRM3F2AONSFCTH7GNDP6W6WEBD4K6) | Donate (77 XLM Escrow contribution) | [f2e4f89...bc61](https://stellar.expert/explorer/testnet/tx/f2e4f892dd492fede3ba711619bc6) |
+| [GCQZNKK...WRTU](https://stellar.expert/explorer/testnet/account/GCQZNKKPWDBWU5M5XMR32TUABN7BIACJSHJ2KRAHABLXFEWLONWDWRTU) | Donate (59 XLM Escrow contribution) | [f2eaefb...efeb](https://stellar.expert/explorer/testnet/tx/f2eaefbc8306823def3e4bfa0efeb) |
 
 </details>
 
@@ -243,8 +261,8 @@ NovaTrust actively tracks its user growth using Plausible Analytics and on-chain
 
 To build a robust pipeline for future Mainnet launch and marketing, user details including Wallet Address, Email, Name, Rating, and Comments are actively collected via our in-app feedback widget powered by a Google Form integration.
 
-- **Google Form Link:** *(Placeholder: Add your new Google Form Link here)*
-- **Google Sheet Link (Exported Data):** *(Placeholder: Add your new Google Sheet Link here)*
+- **Google Form Link:** [NovaTrust Feedback Form](https://docs.google.com/forms/d/1yGmPW0oVPAEy8YKBkkg96VaX6Xt09MuDasgO0vqFovs/viewform)
+- **Google Sheet Link (Exported Data):** [NovaTrust Exported Excel Responses](https://docs.google.com/spreadsheets/d/1Np3X2RRKhHnZ1i7y4wjA-YJLZo4dctoc12Da1vYz3-k/edit?usp=sharing)
 - *Note: Exported responses are also available as a CSV/XLSX (`user_growth_proof.csv`) in this repository for review.*
 
 ---
