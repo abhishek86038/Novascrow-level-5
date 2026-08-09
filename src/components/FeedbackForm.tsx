@@ -64,3 +64,4 @@ export const FeedbackForm = () => {
     </div>
   );
 };
+// Feedback widgets for user suggestions
