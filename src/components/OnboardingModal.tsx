@@ -95,3 +95,4 @@ export const OnboardingModal = () => {
     </div>
   );
 };
+// Expanded instructions for testnet users
