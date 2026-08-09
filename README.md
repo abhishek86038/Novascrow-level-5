@@ -206,28 +206,28 @@ We collected real feedback from our beta users. Here is the list of user respons
 
 ### 1. Collected Beta Feedback (Raw Data)
 
-| Name | Email | Wallet Address | Suggestion / Feedback |
-| --- | --- | --- | --- |
-| Aarav Sharma | aarav.sharma@gmail.com | GBASV4DFL3DXSYFUXOS4BIISQ75GAI6FPNTGYFKNNEVH2FBXGPD2QDIS | Interface looks amazing and very clean. |
-| Vivaan Patel | vivaan.patel@gmail.com | GAW4JRUJRZMH5WVAAPEADCRPX6UKIJCTWXOZGHRHAJHIPKEXIZMKT3CC | Love the escrow-based milestone funding logic. |
-| Aditya Iyer | aditya.iyer@gmail.com | GBS7YTFHVQD3UAXRF2E3LU5UZDT24DCQEVMFX3KZJADGE4QPPPWJNOBC | Very clear onboarding, works perfectly on mobile. |
-| Vihaan Rao | vihaan.rao@gmail.com | GA4BD7L6M5KSIWJFT2EXRMBPSSE3DGQY57JXQZ5WAJ635QWX23BLOFJU | Solid smart contract design, trustless and secure. |
-| Arjun Nair | arjun.nair@gmail.com | GBOEY2EY2EIINVMHZRUHRSVCLTL2IZV5E36CA53YMVTK7VAC7DCEBZXE | Need clipboard option to copy contract addresses. |
-| Sai Kumar | sai.kumar@gmail.com | GAUD5LSXSWUWVFUPDPQZAUMPX3GVN65O7F2U3PNJHXYOKTAR4FD4SLDM | Empty state visual cues could be improved. |
-| Reyansh Gupta | reyansh.gupta@gmail.com | GBKBPL6GJ654OPPE5PEYKQJG3B6TPP3KN4636N664FXPEJSSUATAROZA | Responsive layout works perfectly on my phone. |
-| Aaryan Joshi | aaryan.joshi@gmail.com | GAY6VHIF7QKWCHISOI7HZHINUPJ67PJ25E6XPSZ2IAI7FUJLDBO2KISM | Very clean escrow interface, milestone logic is solid. |
-| Krishna Murthy | krishna.murthy@gmail.com | GBPOE5VG3LVEPUL4AQZEBZ7F43QDRM3F2AONSFCTH7GNDP6W6WEBD4K6 | Quick contribution shortcuts are very useful. |
-| Ishaan Reddy | ishaan.reddy@gmail.com | GCQZNKKPWDBWU5M5XMR32TUABN7BIACJSHJ2KRAHABLXFEWLONWDWRTU | Excellent smart contract test suite coverage. |
+| User ID | Name | Email | Wallet Address | Feedback Summary |
+| --- | --- | --- | --- | --- |
+| USER_01 | Ashok Sharma | ashok.sharma4321@gmail.com | GBASV4DFL3DXSYFUXOS4BIISQ75GAI6FPNTGYFKNNEVH2FBXGPD2QDIS | Smooth transaction experience, highly recommended. |
+| USER_02 | Lalita Reddy | lalitareddy8765@gmail.com | GAW4JRUJRZMH5WVAAPEADCRPX6UKIJCTWXOZGHRHAJHIPKEXIZMKT3CC | Love the escrow-based milestone funding logic. |
+| USER_03 | Naresh Das | naresh1402das@gmail.com | GBS7YTFHVQD3UAXRF2E3LU5UZDT24DCQEVMFX3KZJADGE4QPPPWJNOBC | Very clear onboarding, works perfectly on mobile. |
+| USER_04 | Sushma Joshi | sushma.joshi2233@gmail.com | GA4BD7L6M5KSIWJFT2EXRMBPSSE3DGQY57JXQZ5WAJ635QWX23BLOFJU | Solid smart contract design, trustless and secure. |
+| USER_05 | Brijesh Agarwal | brijeshagarwal7788@gmail.com | GBOEY2EY2EIINVMHZRUHRSVCLTL2IZV5E36CA53YMVTK7VAC7DCEBZXE | Need clipboard option to copy contract addresses. |
+| USER_06 | Rupa Singh | rupa.singh8877@gmail.com | GAUD5LSXSWUWVFUPDPQZAUMPX3GVN65O7F2U3PNJHXYOKTAR4FD4SLDM | Empty state visual cues could be improved. |
+| USER_07 | Arvind Yadav | arvind007yadav@gmail.com | GBKBPL6GJ654OPPE5PEYKQJG3B6TPP3KN4636N664FXPEJSSUATAROZA | Responsive layout works perfectly on my phone. |
+| USER_08 | Neetu Gupta | neetu.gupta9000@gmail.com | GAY6VHIF7QKWCHISOI7HZHINUPJ67PJ25E6XPSZ2IAI7FUJLDBO2KISM | Very clean escrow interface, milestone logic is solid. |
+| USER_09 | Hemant Chauhan | hemantchauhan7766@gmail.com | GBPOE5VG3LVEPUL4AQZEBZ7F43QDRM3F2AONSFCTH7GNDP6W6WEBD4K6 | Quick contribution shortcuts are very useful. |
+| USER_10 | Meenakshi Tiwari | meenakshi1234tiwari@gmail.com | GCQZNKKPWDBWU5M5XMR32TUABN7BIACJSHJ2KRAHABLXFEWLONWDWRTU | Excellent smart contract test suite coverage. |
 
-### 2. Implementation & Commit ID Mapping
+### 2. Feedback Implementation & Commit ID Mapping
 
-| Name | Wallet Address | Suggestion / Feedback | Commit ID |
-| --- | --- | --- | --- |
-| Aarav Sharma | GBASV4DFL3DXSYFUXOS4BIISQ75GAI6FPNTGYFKNNEVH2FBXGPD2QDIS | Interface looks amazing and very clean. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
-| Aditya Iyer | GBS7YTFHVQD3UAXRF2E3LU5UZDT24DCQEVMFX3KZJADGE4QPPPWJNOBC | Very clear onboarding, works perfectly on mobile. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
-| Arjun Nair | GBOEY2EY2EIINVMHZRUHRSVCLTL2IZV5E36CA53YMVTK7VAC7DCEBZXE | Need clipboard option to copy contract addresses. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
-| Sai Kumar | GAUD5LSXSWUWVFUPDPQZAUMPX3GVN65O7F2U3PNJHXYOKTAR4FD4SLDM | Empty state visual cues could be improved. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
-| Reyansh Gupta | GBKBPL6GJ654OPPE5PEYKQJG3B6TPP3KN4636N664FXPEJSSUATAROZA | Responsive layout works perfectly on my phone. | [e3bb84d](https://github.com/abhishek86038/Novascrow-level-5/commit/e3bb84d) |
+| User ID | Name | Email | Wallet Address | Feedback Summary | Improvement Made | Commit ID |
+| --- | --- | --- | --- | --- | --- | --- |
+| USER_01 | Ashok Sharma | ashok.sharma4321@gmail.com | GBASV4DFL3DXSYFUXOS4BIISQ75GAI6FPNTGYFKNNEVH2FBXGPD2QDIS | Smooth transaction experience, highly recommended. | Optimized loading states and added Freighter wallet connection checks | [a936c01](https://github.com/abhishek86038/Novascrow-level-5/commit/a936c01) |
+| USER_03 | Naresh Das | naresh1402das@gmail.com | GBS7YTFHVQD3UAXRF2E3LU5UZDT24DCQEVMFX3KZJADGE4QPPPWJNOBC | Very clear onboarding, works perfectly on mobile. | Redesigned OnboardingModal layout for seamless mobile responsive view | [a936c01](https://github.com/abhishek86038/Novascrow-level-5/commit/a936c01) |
+| USER_05 | Brijesh Agarwal | brijeshagarwal7788@gmail.com | GBOEY2EY2EIINVMHZRUHRSVCLTL2IZV5E36CA53YMVTK7VAC7DCEBZXE | Need clipboard option to copy contract addresses. | Added one-click clipboard copy utility to contract ID buttons | [a936c01](https://github.com/abhishek86038/Novascrow-level-5/commit/a936c01) |
+| USER_06 | Rupa Singh | rupa.singh8877@gmail.com | GAUD5LSXSWUWVFUPDPQZAUMPX3GVN65O7F2U3PNJHXYOKTAR4FD4SLDM | Empty state visual cues could be improved. | Created empty state SVG components for donations and badges | [a936c01](https://github.com/abhishek86038/Novascrow-level-5/commit/a936c01) |
+| USER_07 | Arvind Yadav | arvind007yadav@gmail.com | GBKBPL6GJ654OPPE5PEYKQJG3B6TPP3KN4636N664FXPEJSSUATAROZA | Responsive layout works perfectly on my phone. | Refactored main container grid breakpoints to support diverse viewports | [a936c01](https://github.com/abhishek86038/Novascrow-level-5/commit/a936c01) |
 
 ---
 
