@@ -13,10 +13,18 @@ fn test_rewards_badge_simple() {
 
     let admin = Address::generate(&env);
     let donor = Address::generate(&env);
+    let crowdfunding = Address::generate(&env);
 
     client.initialize(&admin);
-    client.set_minter(&admin);
-    client.mint_badge(&donor, &1);
 
+    // Initial mint with admin (since crowdfunding contract is not set yet)
+    client.mint_badge(&donor, &1);
     assert_eq!(client.get_badge_tier(&donor), 1);
+
+    // Set crowdfunding contract
+    client.set_crowdfunding_contract(&crowdfunding);
+
+    // Mint with crowdfunding contract (mocked auth makes it pass)
+    client.mint_badge(&donor, &2);
+    assert_eq!(client.get_badge_tier(&donor), 2);
 }

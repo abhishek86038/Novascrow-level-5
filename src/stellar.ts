@@ -10,8 +10,8 @@ import {
   Account
 } from "@stellar/stellar-sdk";
 
-export const CROWDFUNDING_CONTRACT_ID = "CAIMIW3QWDDNPCVWMPTAKLTRFEELB4DLQY6ZFUG5EG6EGCZ3N4TH2EH3";
-export const REWARDS_BADGE_CONTRACT_ID = "CAJAQWB4MUJ3VPG4EIL2TEKGEW7BCKFK6AN6A6CRNKBXPRPDYCZGN433";
+export const CROWDFUNDING_CONTRACT_ID = "CC43AJ4EAYAG6GCST46WZEFCL4SJFQFCZBWQYI7R4SW2KD7VKTQ2GAOC";
+export const REWARDS_BADGE_CONTRACT_ID = "CAQFVJVFX6HHC2KIXAFFGPVGGS5J5J2GE3X7Z3HBXIYUMX32YQKGKJCU";
 export const XLM_NATIVE_CONTRACT_ID = "CDLZFC3SYJYDZT7K67VZ75HPJVIEUVNIXF47ZG2FB2RMQQVU2HHGCYSC";
 
 export const HORIZON_URL = "https://horizon-testnet.stellar.org";
@@ -425,3 +425,5 @@ export async function prepareRefundTransaction(
   const preparedTx = await rpcServer.prepareTransaction(tx);
   return preparedTx.toEnvelope().toXDR("base64");
 }
+// Stellar Helper Module
+// End of module
