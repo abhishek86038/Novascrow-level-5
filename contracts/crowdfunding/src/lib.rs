@@ -289,3 +289,4 @@ impl CrowdfundingContract {
 
 #[cfg(test)]
 mod test;
+// Crowdfunding core contract
