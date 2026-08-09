@@ -153,3 +153,4 @@ export const MilestoneDashboard = ({ milestones, userAddress, walletConnected, r
   );
 };
 // Milestone visual card layout
+// Milestones listing dashboard
