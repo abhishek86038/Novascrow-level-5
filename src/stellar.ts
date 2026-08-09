@@ -428,3 +428,4 @@ export async function prepareRefundTransaction(
 // Stellar Helper Module
 // End of module
 // Soroban API connector
+// Connection details for Freighter wallet
