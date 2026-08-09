@@ -283,19 +283,16 @@ The repository utilizes GitHub Actions to ensure code quality and deployment rel
 Please add new screenshots for the August NovaTrust submission in the `./screenshots/` directory:
 
 - **Main Dashboard & Campaign Escrow UI:** 
-  ![Main Dashboard](./screenshots/dashboard.png)
+  ![alt text](image.png)
   
 - **Improved Onboarding Flow (Onboarding Modal):**
-  ![Onboarding Modal](./screenshots/onboarding.png)
+  ![alt text](image-1.png)
   
 - **Mobile Responsive Design:**
-  ![Mobile Responsive View](./screenshots/mobile-responsive.png)
+  ![alt text](image-2.png)
   
 - **CI/CD Pipeline Run Execution:**
-  ![GitHub Actions CI Run](./screenshots/github-actions.png)
-  
-- **Analytics & Sentry Monitoring Dashboard:**
-  ![Analytics and Monitoring](./screenshots/analytics.png)
+  ![alt text](image-3.png)
 
 ---
 
