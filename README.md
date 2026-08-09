@@ -115,8 +115,8 @@ Stellar's fast transaction speeds and negligible fees make micro-donations and c
 
 ## 8. Live Demo & Video
 
-- **Live Demo URL:** [NovaTrust Vercel Deployment](https://novascrow-level-4.vercel.app/)
-- **Demo Video Link:** [NovaTrust Product Walkthrough](https://youtu.be/7lWdcWwLrbE)
+- **Live Demo URL:** [NovaTrust Vercel Deployment](https://novatrust-level-5.vercel.app/)
+- **Demo Video Link:** [NovaTrust Product Walkthrough](https://youtu.be/SFsHEHdZhFQ?si=NIm4i99kMPYtonge)
 - **Pitch Deck Link:** [NovaTrust Presentation Pitch Deck](./NovaTrust_Pitch_Deck.pptx) (Available in root repository)
 - **Sample Transaction Hash:** `f2ebd02d3d8aedede0a1a0cbf1a72` (Donate 88 XLM contribution)
 
