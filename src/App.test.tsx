@@ -53,7 +53,7 @@ describe("NovaTrust Frontend Dashboard", () => {
   it("renders the campaign info and progress correctly", async () => {
     render(<App />);
 
-    expect(screen.getByText("NovaTrust Crowdfunding")).toBeDefined();
+    expect(screen.getByText("Novascrow Crowdfunding")).toBeDefined();
     expect(screen.getByText("Milestone: 1,000 XLM")).toBeDefined();
     expect(screen.getByText("Active Network: Stellar Testnet")).toBeDefined();
 
