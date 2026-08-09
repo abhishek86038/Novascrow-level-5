@@ -261,8 +261,8 @@ NovaTrust actively tracks its user growth using Plausible Analytics and on-chain
 
 To build a robust pipeline for future Mainnet launch and marketing, user details including Wallet Address, Email, Name, Rating, and Comments are actively collected via our in-app feedback widget powered by a Google Form integration.
 
-- **Google Form Link:** [NovaTrust Feedback Form](https://docs.google.com/forms/d/1yGmPW0oVPAEy8YKBkkg96VaX6Xt09MuDasgO0vqFovs/viewform)
-- **Google Sheet Link (Exported Data):** [NovaTrust Exported Excel Responses](https://docs.google.com/spreadsheets/d/1Np3X2RRKhHnZ1i7y4wjA-YJLZo4dctoc12Da1vYz3-k/edit?usp=sharing)
+- **Google Form Link:** [NovaTrust Feedback Form](https://docs.google.com/forms/d/19skWyxOrxsYpyg8jniOR9-JbXWMecs6joHdx1YXPuGo/viewform)
+- **Google Sheet Link (Exported Data):** [NovaTrust Exported Excel Responses](https://docs.google.com/spreadsheets/d/1CZT_p3p0cJIXZsBwx5mx6jrTaqGaLYiOcaFg9ENpVus/edit?usp=sharing)
 - *Note: Exported responses are also available as a CSV/XLSX (`user_growth_proof.csv`) in this repository for review.*
 
 ---
